@@ -34,16 +34,6 @@
 
 ---
 
-## 🚀 Featured Projects
-- 🔗 **Portfolio Website**  
-  👉 https://your-portfolio-link.com  
-- 🌦️ **Weather App**  
-  Real-time weather with API + responsive UI  
-- 🧠 **DSA Tracker**  
-  Track and manage solved problems  
-
----
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ishantpathak01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=ishantpathak01&theme=tokyonight&hide_border=false)
@@ -63,38 +53,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ishantpathak01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## 🎯 Goals for 2026
-- 🔥 Solve 500+ DSA problems  
-- 🚀 Build 5+ real-world projects  
-- 💼 Crack top tech internship  
-- 🌐 Contribute to open source  
-
----
-
-## 🎮 Fun Zone
-
-### 🟡 Pac-Man Eating My Contributions
-<p align="center">
-  <img src="https://github.com/abozanona/pacman-contribution-graph/raw/master/pacman.svg" />
-</p>
-
-### 🕹️ Arcade Mode
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="250"/>
-</p>
-
-### 🎲 Random Dev Joke
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
-</p>
-
----
-
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -102,11 +60,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ishantpathak01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
-## 🤝 Let's Connect
-💬 Open to collaboration and tech discussions  
-🚀 Building projects and improving daily  
-
-⭐ If you like my work, consider giving a star!
