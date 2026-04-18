@@ -57,9 +57,12 @@
 ![](https://github-profile-trophy.vercel.app/?username=ishantpathak01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+## 🎮 Fun Zone
 
-## 😂 Fun Zone
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+### 🟡 Pac-Man Eating My Contributions
+<p align="center">
+  <img src="https://github.com/abozanona/pacman-contribution-graph/raw/master/pacman.svg" />
+</p>
 
 ---
 
