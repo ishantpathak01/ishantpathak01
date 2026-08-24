@@ -21,9 +21,6 @@
 ⚡ C++ | React | JavaScript | DSA  
 🚀 Passionate about building projects and improving coding skills daily  
 
----
-<div align="center">
-
 # 💻 Tech Stack:
 
 <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,tailwind,mongodb,git,github,vscode,html,css&perline=11" alt="tech stack">
