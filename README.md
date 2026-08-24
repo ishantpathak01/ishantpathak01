@@ -34,13 +34,6 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ishantpathak01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=ishantpathak01&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishantpathak01&theme=tokyonight&hide_border=false&layout=compact)
-
----
-
 ## 🔥 LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Ishantpathak01?theme=dark&font=baloo&ext=heatmap" />
